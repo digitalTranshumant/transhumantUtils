@@ -1,2 +1,2 @@
 # transhumantUtils
-Snipts of code to make life easier.
+Snipets of code to make life easier.
